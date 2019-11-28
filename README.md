@@ -14,7 +14,11 @@ The notebook requires the following python modules:
 
 ## Usage
 Clone the repository by typing 
-> **git clone** http://github.com/mengkel/Synchrotron_Pulse.git  
->Then open the notebook. For example, on a linux type system, type  
+
+> **git clone** http://github.com/mengkel/Synchrotron_Pulse.git 
+
+>Then open the notebook. For example, on a linux type system, type 
+
 >**cd Synchrotron_Pulse**  
+
 >**jupyter notebook Synchrotron_Pulse.ipynb**
