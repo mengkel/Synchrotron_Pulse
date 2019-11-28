@@ -4,13 +4,13 @@ This [**Jupyter notebook**](https://jupyter-notebook.readthedocs.io/en/stable/) 
 ## Dependencies
 The notebook requires the following python modules:
 
-> - matplotlib
+> - [matplotlib](https://pypi.org/project/matplotlib/)
 
-> - numpy
+> - [numpy](https://pypi.org/project/numpy/)
 
-> - ipython
+> - [ipython](https://pypi.org/project/ipython/)
 
-> - scipy
+> - [scipy](https://pypi.org/project/scipy/)
 
 ## Usage
 Clone the repository by typing 
