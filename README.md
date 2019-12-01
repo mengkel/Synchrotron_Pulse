@@ -21,4 +21,4 @@ Clone the repository by typing
 
 >**cd Synchrotron_Pulse**  
 
->**jupyter notebook Synchrotron_Pulse.ipynb**
+>**jupyter notebook synchrotron pulse.ipynb**
