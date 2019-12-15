@@ -21,6 +21,7 @@ Clone the repository by typing
 >Then open the notebook. For example, on a linux type system, type 
 
 >**cd Synchrotron_Pulse**  
+
 >**jupyter notebook synchrotron_pulse.ipynb**
 
 >**jupyter notebook detailed time structure.ipynb**
