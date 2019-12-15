@@ -23,4 +23,5 @@ Clone the repository by typing
 >**cd Synchrotron_Pulse**  
 
 >**jupyter notebook synchrotron_pulse.ipynb**
+
 >**jupyter notebook detailed time structure.ipynb**
